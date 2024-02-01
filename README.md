@@ -55,7 +55,7 @@ results_plotter.create_table(nn_models, data_processor.x_train, data_processor.y
     pip install -r requirements.txt
     ```
 
-3. Explore the Jupyter notebooks in the `examples` directory for detailed usage.
+3. Run the file named ExampleUsage.py to see the results.
 
 ### Contributions
 
@@ -64,7 +64,3 @@ Contributions are welcome! Feel free to open issues for bug reports or new featu
 ### License
 
 This package is distributed under the [MIT License](LICENSE).
-
----
-
-Make sure to customize the content based on the specifics of your package and its functionalities.
